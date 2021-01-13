@@ -1,2 +1,2 @@
-Myapp
-/This is My world
+MyApp
+This is My world
