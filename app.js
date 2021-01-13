@@ -1,1 +1,1 @@
-my App
+my Application
